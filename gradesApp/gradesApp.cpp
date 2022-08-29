@@ -104,6 +104,7 @@ void registerTeacher() {
 	mainMenu(); // goes to the main menu
 }
 
+// teacher is able to login to an existing account
 void login() {
 	int count = 0;
 	string email, password, em, pass;
